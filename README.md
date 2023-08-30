@@ -1,1 +1,2 @@
-# Jogos
+## Jogos
+### Repositório criado para adicionar projetos com códigos que gerem jogos de tabuleiro, com cartas, outros...
