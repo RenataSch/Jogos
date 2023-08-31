@@ -1,4 +1,4 @@
-# Jogos
+# Jogos 🎲🎮🎰
 ### Repositório criado para adicionar projetos com códigos que geram diferentes tipos de jogos.
 
 <div>
