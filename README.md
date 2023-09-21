@@ -1,5 +1,5 @@
 # Jogos 
-## 🎲🎮🎰
+### 🎲🎮🎰
 ### Repositório criado para adicionar projetos com códigos que geram diferentes tipos de jogos, durante meus estudos pretendo criar desafios desenvolvendo jogos de cartas ou tabuleiro.
 
 <div>
